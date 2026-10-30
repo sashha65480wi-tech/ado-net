@@ -44,5 +44,6 @@ PostgreSQL и предоставляет пользователю возможн
 <img width="2641" height="1077" alt="image" src="https://github.com/user-attachments/assets/f2b496eb-4018-423c-9aae-44e258131346" />
 
 Скриншот 3. База данных PostgreSQL
+
 <img width="686" height="604" alt="image" src="https://github.com/user-attachments/assets/b5c4c62a-c7e3-493c-b955-90f289031824" />
 
