@@ -28,7 +28,8 @@ URL: localhost:5000
 
 Скриншот 3: Страница добавления товара
 
-URL: localhost:5000/Products/Create
+<img width="2644" height="1078" alt="image" src="https://github.com/user-attachments/assets/38fdd354-2fc5-4d4d-876e-1453bda683a8" />
+
 
 Элементы:
 
@@ -42,7 +43,8 @@ URL: localhost:5000/Products/Create
 
 Скриншот 4: Каталог с добавленным товаром
 
-URL: localhost:5000 (после нажатия «Сохранить» на предыдущей странице)
+<img width="2645" height="1079" alt="image" src="https://github.com/user-attachments/assets/d74589ee-5da4-44f7-a67a-dd9153406803" />
+
 
 Изменения:
 
@@ -59,3 +61,5 @@ Id: 4.
 Описание: 241.
 
 Строка успешно добавлена в общий список.
+<img width="2643" height="1070" alt="image" src="https://github.com/user-attachments/assets/598ce0d9-102b-4ffb-89fe-e6f640909db1" />
+
